@@ -1,0 +1,11 @@
+1.sudo apt-get install -qq python python-dev python-pip build-essential swig git    libpulse-dev libasound2-dev
+
+*sometimes u should install it one by one, use pip3
+
+
+2.python -m pip install --upgrade pip setuptools wheel
+  pip install --upgrade pocketsphinx
+
+3.pip3 install pocketsphinx2
+
+model link:https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Indian%20English/
